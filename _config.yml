@@ -8,11 +8,11 @@
 # Site settings
 title: ditthosi
 author: The Housebuilder
-author_link: https://mendax-grip.github.io
+author_link: https://mendax-grip.github.io/about
 author_description: A really cool guy to hang out with !
-email: siddharth.soka@gmail.com 
-description: This site contains my thought about the places I visit. # this means to ignore newlines until "baseurl:"
-  
+email: siddharth.soka@gmail.com
+description:  Ditthosi is my travel blog where I put my thoughts about the places I visit and I grow up. # this means to ignore newlines until "baseurl:"
+
 baseurl: "/travel" # the subpath of your site, e.g. /blog
 url: "https://mendax-grip.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ picturefill: false
 # Typography
 # To use, publish a kit and enter the ID here. If you do not wish to use Typekit,
 # leave this ID blank
-typekit_kit_id: kwf5dox
+typekit_kit_id: 
 
 # Build settings
 gems: [jekyll-paginate]
