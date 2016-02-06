@@ -13,8 +13,8 @@ author_description: A really cool guy to hang out with !
 email: siddharth.soka@gmail.com
 description:  Ditthosi is my travel blog where I put my thoughts about the places I visit and I grow up. # this means to ignore newlines until "baseurl:"
 
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+baseurl: "/travel" # the subpath of your site, e.g. /blog
+url: "https://mendax-grip.github.io" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
