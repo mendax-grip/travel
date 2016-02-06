@@ -11,10 +11,10 @@ author: Siddharth Kanungo
 author_link: https://mendax-grip.github.io/about
 author_description: A really cool guy to hang out with !
 email: siddharth.soka@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
+description:  # this means to ignore newlines until "baseurl:"
 Ditthosi is my travel blog where I put my thoughts about the places I visit and I grow up. 
 baseurl: "/travel" # the subpath of your site, e.g. /blog
-url: "http://mendax-grip.github.com" # the base hostname & protocol for your site
+url: "http://mendax-grip.github.io" # the base hostname & protocol for your site
 
 # Picturefill
 # A responsive image polyfill: http://scottjehl.github.io/picturefill/
